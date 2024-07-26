@@ -1,2 +1,2 @@
 this is main file
-Adding a feature - feature1
+Adding a feature-Feature1
